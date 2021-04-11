@@ -1,5 +1,5 @@
 ---
-title: New Beginnings: The Sequel
+title: "New Beginnings: The Sequel"
 date: "2021-03-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
